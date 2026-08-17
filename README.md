@@ -48,7 +48,7 @@
  <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
  </a> -->
 
-<h2 align="center">
+<!-- <h2 align="center">
   My Github Stats
 </h2>
 
@@ -59,7 +59,7 @@
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=adiiiadiii&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
-</p> 
+</p>  -->
 
 
 
